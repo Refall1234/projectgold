@@ -1,0 +1,39 @@
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+   background-color: lightgrey;
+   width: 1800px;
+   border: 10px solid green;
+   padding: 50px;
+   margin: 2px;
+}
+footer{
+  background-color: lightgrey;
+  width: 950px;
+  border: 10px red solid;
+}
+p{
+  text-shadow: 3px 3px 6px white;
+  font-family: "Segoe Script", cursive;
+  font-size: 20px;
+}
+nav{
+  a:link {
+    color: black;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  a:active {
+    color: lime;
+  }
+
+  a:hover {
+    color: red;
+  }
+}
